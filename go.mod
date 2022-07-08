@@ -1,4 +1,4 @@
-module github.com/devNica/go-clean
+module github.com/devNica/go-clean-arch
 
 go 1.18
 

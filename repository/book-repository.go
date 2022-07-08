@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/devNica/go-clean/entity"
+	"github.com/devNica/go-clean-arch/entity"
 	"gorm.io/gorm"
 )
 

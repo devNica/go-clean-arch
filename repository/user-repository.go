@@ -3,7 +3,7 @@ package repository
 import (
 	"log"
 
-	"github.com/devNica/go-clean/entity"
+	"github.com/devNica/go-clean-arch/entity"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 )

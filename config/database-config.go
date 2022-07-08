@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/devNica/go-clean/entity"
+	"github.com/devNica/go-clean-arch/entity"
 	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

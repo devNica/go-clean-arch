@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/devNica/go-clean/config"
-	"github.com/devNica/go-clean/controller"
-	"github.com/devNica/go-clean/middleware"
-	"github.com/devNica/go-clean/repository"
-	"github.com/devNica/go-clean/service"
+	"github.com/devNica/go-clean-arch/config"
+	"github.com/devNica/go-clean-arch/controller"
+	"github.com/devNica/go-clean-arch/middleware"
+	"github.com/devNica/go-clean-arch/repository"
+	"github.com/devNica/go-clean-arch/service"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

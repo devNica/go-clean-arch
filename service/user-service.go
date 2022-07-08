@@ -3,9 +3,9 @@ package service
 import (
 	"log"
 
-	"github.com/devNica/go-clean/dto"
-	"github.com/devNica/go-clean/entity"
-	"github.com/devNica/go-clean/repository"
+	"github.com/devNica/go-clean-arch/dto"
+	"github.com/devNica/go-clean-arch/entity"
+	"github.com/devNica/go-clean-arch/repository"
 	"github.com/mashingan/smapping"
 )
 

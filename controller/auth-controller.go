@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/devNica/go-clean/dto"
-	"github.com/devNica/go-clean/entity"
-	"github.com/devNica/go-clean/helper"
-	"github.com/devNica/go-clean/service"
+	"github.com/devNica/go-clean-arch/dto"
+	"github.com/devNica/go-clean-arch/entity"
+	"github.com/devNica/go-clean-arch/helper"
+	"github.com/devNica/go-clean-arch/service"
 	"github.com/gin-gonic/gin"
 )
 

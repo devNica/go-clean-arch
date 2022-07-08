@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/devNica/go-clean/helper"
-	"github.com/devNica/go-clean/service"
+	"github.com/devNica/go-clean-arch/helper"
+	"github.com/devNica/go-clean-arch/service"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )
